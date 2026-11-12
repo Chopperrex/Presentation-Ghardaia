@@ -23,6 +23,21 @@
     box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.815);
 }
 
-.lienimg{
-    border-inline-width: -100%;
+.imglink:hover{
+    width: 40%;
+    margin: 3%;
+    border-radius: 20px;
+    border: solid rgb(107, 58, 24);
+    box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.815);
+    animation: hoverimg 1.5s ease-in-out;
+}
+
+@keyframes hoverimg{
+    0%, 100%{
+        transform: translateY(0);
+    }
+
+    50%{
+        transform: translateY(-5%);
+    }
 }
