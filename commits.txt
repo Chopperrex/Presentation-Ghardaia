@@ -1,0 +1,212 @@
+commit 8c236e2d6713e127569ba51a705ab3e5023c8884
+Author: Chopperrex <ilyan.vlt@gmail.com>
+Date:   2026-11-18 20:32:06 +0000
+
+    creation page kabylie
+
+ Kabylie_tourisme.html     |  35 +++++++++++++++++++++++++++++++++++
+ Site_touriste.html        |   4 ++--
+ images/lac_kabylie.jpg    | Bin 0 -> 125517 bytes
+ images/quadbylie.jpg      | Bin 0 -> 1336700 bytes
+ images/rando_kabylie.jpg  | Bin 0 -> 205380 bytes
+ images/villages_kabyl.jpg | Bin 0 -> 1054970 bytes
+ 6 files changed, 37 insertions(+), 2 deletions(-)
+
+commit 81de7dd4b37137d4cf780620366f3f1ce08b32a9
+Author: Chopperrex <ilyan.vlt@gmail.com>
+Date:   2026-11-18 19:09:51 +0000
+
+    creation page ghardaïa
+
+ "Gharda\303\257a_tourisme.html"      |  35 +++++++++++++++++++++++++++++++++++
+ Site_touriste.html                   |   2 +-
+ images/ghardaia_museum.jpg           | Bin 0 -> 534283 bytes
+ "images/marche_gharda\303\257a.jpg"  | Bin 0 -> 364390 bytes
+ "images/mosqu\303\251e_ghardaia.jpg" | Bin 0 -> 34775 bytes
+ images/street_Ghardaia.jpg           | Bin 0 -> 322930 bytes
+ 6 files changed, 36 insertions(+), 1 deletion(-)
+
+commit 2698efa1f245f83f71b571767aaf8a7606931f0f
+Author: Chopperrex <ilyan.vlt@gmail.com>
+Date:   2026-11-18 18:50:23 +0000
+
+    ajout images final bejaïa
+
+ images/bejaia_plage.png  | Bin 652196 -> 639900 bytes
+ images/diving_bejaia.jpg | Bin 40232 -> 88987 bytes
+ images/rando_bejaia.jpg  | Bin 89919 -> 206644 bytes
+ images/voleur.jpg        | Bin 242709 -> 277467 bytes
+ 4 files changed, 0 insertions(+), 0 deletions(-)
+
+commit e1046dde4d0a03a047a8ae04fe692c229bbfbdfb
+Author: Chopperrex <ilyan.vlt@gmail.com>
+Date:   2026-11-16 10:32:31 +0000
+
+    add imgs bejaia page
+
+ bejaia_tourisme.html     |   9 +++++++--
+ images/bejaia_plage.png  | Bin 0 -> 652196 bytes
+ images/diving_bejaia.jpg | Bin 0 -> 40232 bytes
+ images/rando_bejaia.jpg  | Bin 0 -> 89919 bytes
+ images/voleur.jpg        | Bin 0 -> 242709 bytes
+ style/style.css          |   8 ++++++++
+ 6 files changed, 15 insertions(+), 2 deletions(-)
+
+commit 1456c5f537150e1d99f5ee4309328938feaeccf3
+Author: Chopperrex <ilyan.vlt@gmail.com>
+Date:   2026-11-16 10:07:33 +0000
+
+    creation page bejaïa
+
+ Site_touriste.html   |  4 ++--
+ bejaia_tourisme.html | 30 ++++++++++++++++++++++++++++++
+ 2 files changed, 32 insertions(+), 2 deletions(-)
+
+commit 10ad81f65b0e9b4798c923f01dab43ca1d64b3fb
+Author: Chopperrex <ilyan.vlt@gmail.com>
+Date:   2026-11-16 10:00:37 +0000
+
+    fix link imgs
+
+ Site_touriste.html  |  15 ++++++++-----
+ images/bejaia.jpg   | Bin 31254 -> 62153 bytes
+ images/ghardaia.jpg | Bin 124121 -> 252281 bytes
+ images/kabylie.jpg  | Bin 122170 -> 196444 bytes
+ images/sand.jpg     | Bin 0 -> 15818 bytes
+ images/shara.jpg    | Bin 53530 -> 121759 bytes
+ style/style.css     |  62 ++++++++++++++++++++++++++++++++++++++++++++++++----
+ 7 files changed, 68 insertions(+), 9 deletions(-)
+
+commit 1f70c3073373aa2632437bc6bac8bdc922067443
+Author: Chopperrex <ilyan.vlt@gmail.com>
+Date:   2026-11-12 15:06:45 +0000
+
+    updates style texte
+
+ Site_touriste.html | 5 ++---
+ style/style.css    | 9 ++++++++-
+ 2 files changed, 10 insertions(+), 4 deletions(-)
+
+commit d356c4d174f82b9b3f38d1d6c309608c5a97d7d9
+Author: Chopperrex <ilyan.vlt@gmail.com>
+Date:   2026-11-12 14:42:08 +0000
+
+    ajout animation images
+
+ style/style.css | 19 +++++++++++++++++--
+ 1 file changed, 17 insertions(+), 2 deletions(-)
+
+commit 39580337eefcc25a65a356e330d46fb2b193198f
+Author: Chopperrex <ilyan.vlt@gmail.com>
+Date:   2026-11-12 14:21:34 +0000
+
+    correction bug affichage images
+
+ style/style.css | 4 ++++
+ 1 file changed, 4 insertions(+)
+
+commit 2d277ce5f0e5536ec73d977e5550097fa2fa94a9
+Author: Chopperrex <ilyan.vlt@gmail.com>
+Date:   2026-11-12 13:55:09 +0000
+
+    ajout style images
+
+ style/style.css | 15 +++++++++++++++
+ 1 file changed, 15 insertions(+)
+
+commit 109036a3d8f2b52ad1f05353f149c9a10aa89220
+Author: Chopperrex <ilyan.vlt@gmail.com>
+Date:   2026-11-12 13:41:06 +0000
+
+    correction images
+
+ Site_touriste.html | 8 ++++----
+ 1 file changed, 4 insertions(+), 4 deletions(-)
+
+commit 5542add6526d8a55b30cc3a2d4dc484ec18b06c8
+Author: Chopperrex <ilyan.vlt@gmail.com>
+Date:   2026-11-12 13:14:52 +0000
+
+    ajout images
+
+ Site_touriste.html | 6 ++++++
+ 1 file changed, 6 insertions(+)
+
+commit 87192841c2c083d8faccaa8f9db9ff31bb4ab0e9
+Author: Chopperrex <ilyan.vlt@gmail.com>
+Date:   2026-11-12 13:09:31 +0000
+
+    ajout texte et creation dossier image
+
+ Site_touriste.html  |   3 ++-
+ images/bejaia.jpg   | Bin 0 -> 31254 bytes
+ images/ghardaia.jpg | Bin 0 -> 124121 bytes
+ images/kabylie.jpg  | Bin 0 -> 122170 bytes
+ images/shara.jpg    | Bin 0 -> 53530 bytes
+ 5 files changed, 2 insertions(+), 1 deletion(-)
+
+commit 4082f48ea9f8f47e204cea316b88b3dfe96a651e
+Author: Chopperrex <ilyan.vlt@gmail.com>
+Date:   2026-11-12 12:24:43 +0000
+
+    commit test
+
+ Site_touriste.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit a79db8f95e6cdcc15e9f29106b9adaef316b2cb4
+Author: Chopperrex <ilyan.vlt@gmail.com>
+Date:   2026-11-12 13:02:46 +0100
+
+    reboot site
+
+ Site_touriste.html | 6 ++----
+ style/style.css    | 2 +-
+ 2 files changed, 3 insertions(+), 5 deletions(-)
+
+commit e18f77cfb030d5cdc35e23fc2a7e93abcc321122
+Author: Chopperrex <ilyan.vlt@gmail.com>
+Date:   2026-10-29 15:11:27 +0100
+
+    creation premieres classes et correction des balises
+
+ Site_touriste.html | 3 ++-
+ style/style.css    | 9 +++++++++
+ 2 files changed, 11 insertions(+), 1 deletion(-)
+
+commit 8f53ff593fae8057ad09e2dd4d2b33fcdfa55791
+Author: Chopperrex <ilyan.vlt@gmail.com>
+Date:   2026-10-29 15:07:54 +0100
+
+    creation premier texte
+
+ Site_touriste.html | 10 +++++++---
+ 1 file changed, 7 insertions(+), 3 deletions(-)
+
+commit e64ae542ff35e4c4fbe64a76467b327401cc4c35
+Author: Chopperrex <ilyan.vlt@gmail.com>
+Date:   2026-10-29 14:59:27 +0100
+
+    creation et liaison d'un fichier css
+
+ Site_touriste.html | 3 ++-
+ style/style.css    | 0
+ 2 files changed, 2 insertions(+), 1 deletion(-)
+
+commit 9fde713738a3a4df72abe9efb2384065a863fad4
+Author: Chopperrex <ilyan.vlt@gmail.com>
+Date:   2026-10-29 14:56:56 +0100
+
+    creation header, main, footer
+
+ Site_touriste.html | 10 +++++++++-
+ 1 file changed, 9 insertions(+), 1 deletion(-)
+
+commit 75d83f6eac250437b1e507ed405a8e7d37690204
+Author: Chopperrex <ilyan.vlt@gmail.com>
+Date:   2026-10-29 14:52:15 +0100
+
+    start
+
+ Site_touriste.html | 11 +++++++++++
+ 1 file changed, 11 insertions(+)
